@@ -6,7 +6,7 @@
  *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
  *  
  *  Name: Roshis Rai Student ID: 116516238 Date: Jan 28, 2025
- *  Published URL: ___________________________________________________________
+ *  Published URL: https://listings-api-roshis-rai.vercel.app/
  ********************************************************************************/
 
 const express = require('express')
