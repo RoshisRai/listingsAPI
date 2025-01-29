@@ -1,3 +1,14 @@
+/********************************************************************************
+ *  WEB422 – Assignment 1
+ *  
+ *  I declare that this assignment is my own work in accordance with Seneca's
+ *  Academic Integrity Policy:
+ *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+ *  
+ *  Name: Roshis Rai Student ID: 116516238 Date: Jan 28, 2025
+ *  Published URL: ___________________________________________________________
+ ********************************************************************************/
+
 const express = require('express')
 const cors = require('cors')
 const listingsDB = require('./modules/listingsDB.js')
